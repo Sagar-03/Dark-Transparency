@@ -444,4 +444,4 @@ def evaluate(dp_predictions_bin, dp_expectations_bin, dp_predictions_segments, d
     # localization evaluation
     mobile_localization_evaluation_data = get_localization_evaluation_data(mobile_dp_predictions_segments, mobile_dp_expectations_segments, mobile_dp_predictions_labels, mobile_dp_expectations_labels)
     utils.write_json_file(mobile_localization_evaluation_data, "mobile_localization_evaluation_data_" + str(score_threshold_value))
-    utils.print_write_localization_evaluation_result(mobile_localizati
+    utils.print_write_localization_evaluation_result(mobile_localization_evaluation_data, "mobile_localization_evaluation_data_" + str(score_threshold_value))
