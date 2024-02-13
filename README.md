@@ -19,7 +19,7 @@ For Forced Action can show you a little warning to note that it is that dark pat
 Disguised ADs are a dark pattern in which people use pictures of unavailable products in order to gain traffic on their website. So our extension will provide the user a direct link to the original product's website. Finding URLs of that images is no difficult task. Use AI for searching.
 ConfirmShaming  is also a dark pattern which appealing to emotional blackmail, which can also be avoided by generating warning . 
 Bait and Switch helps in showing you the X by change in CSS. 
-Rest dark p[atterns can be handled by using API keys.
+Rest dark patterns can be handled by using API keys.
 
 
 
