@@ -1,4 +1,4 @@
-## Dark Transperency 
+## Dark Transperency
 Dark Transperancy is a Extension which detect type, scale of dark patterns, determine and give warning about eight dark pattern on e-commerce websites. It will give you warning about same. You can also comment on a website about your reviews and also read the comments of people who are using extensions for better understanding. You can also block the unwanted websites according to your prefrence and get an alternate suggestion for same better alternate. Dark Transperancy not only gives you extension download option but also educate people about the dark patterns and dark transperancy uses and features simple yet useful.
 
 Extension uses API calls and CSS&Backend (flowchart) to solve the required purposes as mentioned
