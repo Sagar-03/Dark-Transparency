@@ -22,4 +22,3 @@ Bait and Switch helps in showing you the X by change in CSS.
 Rest dark patterns can be handled by using API keys
 
 
-
